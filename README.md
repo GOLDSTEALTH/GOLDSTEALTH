@@ -1,5 +1,4 @@
  Hi there 
 
 
-- 🌱 I’m currently learning CLOUD COMPUTING (AWS)
--->
+- 🌱 I’m currently learning CLOUD COMPUTING (AWS), DevOps....
